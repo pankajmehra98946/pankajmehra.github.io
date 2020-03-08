@@ -1,0 +1,52 @@
+ @import url('https ://fonts.googleapis.com/css?family=Roboto');
+
+body{
+
+background-size: cover;
+background-color: #4db366;
+	
+
+}
+.main-section{
+
+
+margin-top: 70px;
+
+padding: 0;
+
+
+}
+.modal-content{
+
+
+	/*background-color: #434e51; */
+	opacity: .8;
+	padding: 0 0px;
+	
+
+}
+
+
+
+
+
+
+
+.btn-success{
+
+background-color: #1c6288;
+font-size: 19px;
+border-radius: 5px;
+padding: 7px 14px;
+border: 1px solid #daf1ff;
+
+}
+.forgot{
+
+	padding: 5px 0 25px;
+
+}
+.forgot a{
+	/*color: #daf1ff;*/
+}
+
